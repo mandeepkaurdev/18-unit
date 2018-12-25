@@ -1,8 +1,8 @@
-# Switch to branch "gh-pages" to view content
-
 # 18-unit
 
 # Recipe App Built with React
+
+## Switch to branch "gh-pages" to view content
 
 ## Instructions
 
